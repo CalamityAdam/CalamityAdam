@@ -1,8 +1,10 @@
 ### Hi there 👋 my name is Adam Sisk
 I'm a frontend developer at [Ramsey Solutions](https://www.ramseyinhouse.com/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CalamityAdam)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalamityAdam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CalamityAdam&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalamityAdam&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CalamityAdam&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
