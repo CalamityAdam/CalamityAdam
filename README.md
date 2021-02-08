@@ -7,6 +7,7 @@ I'm a frontend developer at [Ramsey Solutions](https://www.ramseyinhouse.com/)
 
 
 
+
 <!--
 **CalamityAdam/CalamityAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
